@@ -2,11 +2,11 @@ package chess.pieces;
 
 import boardGame.Board;
 import chess.ChessPiece;
-import chess.Collor;
+import chess.Color;
 
 public class King extends ChessPiece{
 
-	public King(Board board, Collor collor) {
+	public King(Board board, Color collor) {
 		super(board, collor);
 	}
 
