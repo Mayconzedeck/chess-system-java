@@ -1,6 +1,5 @@
 package chess;
 
-import java.nio.channels.IllegalSelectorException;
 import java.security.InvalidParameterException;
 import java.util.ArrayList;
 import java.util.List;
